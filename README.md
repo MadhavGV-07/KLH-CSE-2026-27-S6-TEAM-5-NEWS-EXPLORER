@@ -19,9 +19,9 @@ metrics through an interactive browser interface.
 
 ------------------------------------------------------------------------
 
-## ✨ Features
+##  Features
 
-### 🔎 News Explorer
+###  News Explorer
 
 -   Search the available news-article collection using the Java search
     API.
@@ -29,7 +29,7 @@ metrics through an interactive browser interface.
 -   View matching articles and match information in the browser.
 -   Explore results through the interactive user interface.
 
-### 🧪 DSA Visualizer Lab
+###  DSA Visualizer Lab
 
 -   Step-by-step KMP search trace and LPS-table explanation.
 -   Rabin--Karp rolling-hash trace.
@@ -38,14 +38,14 @@ metrics through an interactive browser interface.
 -   Algorithm-focused views intended to make internal operations easier
     to understand.
 
-### 🕸️ Article Similarity Graph
+###  Article Similarity Graph
 
 -   Represents articles as graph nodes.
 -   Uses TF-IDF term weighting and cosine similarity to estimate textual
     similarity.
 -   Displays similarity relationships through a graph visualization.
 
-### 📊 Benchmark Suite
+### Benchmark Suite
 
 -   Compares supported search algorithms using the project's benchmark
     implementation.
@@ -54,18 +54,18 @@ metrics through an interactive browser interface.
 -   Use consistent input data and repeated runs when collecting results
     for a report.
 
-### 💻 Java Source Browser
+###  Java Source Browser
 
 -   Lets users inspect selected Java source code from the interface.
 
-### 🖥️ Console Mode
+###  Console Mode
 
 -   Includes an interactive command-line application and a demo mode for
     exploring the algorithms without the browser interface.
 
 ------------------------------------------------------------------------
 
-## 🧠 Algorithms & Data Structures
+##  Algorithms & Data Structures
 
   ------------------------------------------------------------------------------------------------------
   Algorithm / technique  Source class                     Purpose              Complexity notes
@@ -112,7 +112,7 @@ and assumptions; actual runtime depends on implementation and data.
 
 ------------------------------------------------------------------------
 
-## 🧱 Technology Stack
+##  Technology Stack
 
 -   **Java:** search algorithms, data structures, corpus handling, HTTP
     API, and benchmark logic.
@@ -129,7 +129,7 @@ required by the supplied scripts.
 
 ------------------------------------------------------------------------
 
-## 📁 Project Structure
+##  Project Structure
 
 ``` text
 dsa 3 project/
@@ -207,7 +207,7 @@ dsa 3 project/
 
 ------------------------------------------------------------------------
 
-## ⚙️ Requirements
+##  Requirements
 
 -   A JDK with both `java` and `javac` available on `PATH` (Java 17 or
     later is the intended baseline in the project instructions; use the
@@ -223,7 +223,7 @@ compile scripts.
 
 ------------------------------------------------------------------------
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Windows
 
@@ -267,7 +267,7 @@ succeeded and that the server process is still running.
 
 ------------------------------------------------------------------------
 
-## 🖥️ Console / CLI Mode
+##  Console / CLI Mode
 
 Compile the project first, then run:
 
@@ -322,7 +322,7 @@ another client or documenting the API contract.
 
 ------------------------------------------------------------------------
 
-## 🔄 How It Works
+##  How It Works
 
 1.  The user enters a query or chooses a visualization in the browser.
 2.  JavaScript handles the UI interaction and sends an HTTP request to
@@ -339,7 +339,7 @@ assuming they contain the same articles or counts.
 
 ------------------------------------------------------------------------
 
-## 🧪 Testing & Benchmarking
+##  Testing & Benchmarking
 
 Before including performance numbers in a project report:
 
@@ -374,7 +374,7 @@ evidence.
 
 ------------------------------------------------------------------------
 
-## ⚠️ Notes & Limitations
+##  Notes & Limitations
 
 -   The application uses local article data and an in-memory Java
     corpus; it is not a live news aggregator unless an external
@@ -430,7 +430,7 @@ Check `articles.json`, `ArticleCorpus.java`, and the relevant code in
 
 ------------------------------------------------------------------------
 
-## 🎓 Academic Context
+##  Academic Context
 
 This project was developed for **Data Structures and Algorithms -- 3
 (25CS2103E)** and demonstrates the application of string matching,
@@ -449,7 +449,7 @@ Text-Analysis Engine Using Advanced Data Structures and Algorithms
 
 ------------------------------------------------------------------------
 
-## 📜 License
+##  License
 
 The supplied `package.json` declares the project license as **MIT**. If
 you distribute the project publicly, include an appropriate `LICENSE`
@@ -458,7 +458,7 @@ legally be distributed under that license.
 
 ------------------------------------------------------------------------
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 We thank our project guide, **Dr. Sireesha, Professor**, for her
 guidance and support, and acknowledge the faculty and Department of
