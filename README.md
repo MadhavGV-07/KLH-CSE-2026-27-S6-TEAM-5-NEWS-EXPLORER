@@ -1,4 +1,4 @@
-# 📰 News Explorer
+#  News Explorer
 
 ### An Interactive News Search & Text-Analysis Engine Powered by Data Structures and Algorithms
 
